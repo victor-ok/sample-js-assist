@@ -13,6 +13,7 @@
     "mongoose": "^5.7.5",
     "sentiment": "^5.0.1",
     "socket.io": "^2.4.0",
-    "fast-xml-parser": "4.3.6"
+    "fast-xml-parser": "4.3.6",
+    "webpack" : "5.75.0"
   }
 }
